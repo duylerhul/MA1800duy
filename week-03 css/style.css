@@ -4,5 +4,8 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 /* style the main heading */ 
 h1 { 
-    colour : rgba(255, 0, 55, 0.881);
+    color : rgba(255, 0, 55, 0.881);
+}
+body {
+    color: blue 
 }

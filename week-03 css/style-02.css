@@ -1,0 +1,11 @@
+<!DOCTYPE html> 
+<head> 
+
+<!-- Link to external CSS file -->
+<link rel="stylesheet" href="week-03 css/style-02.css"
+</head> 
+<body>
+<div class="container">
+    <h1>Welcome to Week 03 CSS Example</h1>
+    <p>This is a sample content inside a styled container.</p>
+</div> 
